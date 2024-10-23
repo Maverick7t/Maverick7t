@@ -100,4 +100,11 @@
 
 <br/>
 
-- 📫 How to reach me: **[moinaktarshaikh@gmail.com](mailto:moinaktarshaikh@gmail.com)**
+<h3 align="left">Reach me:</h3>
+<p align="left">
+    </a>
+    &nbsp; <!-- Adds some space between icons -->
+    <a href="mailto:moinaktarshaikh@gmail.com" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_icon_%28black%29.png" alt="Email" height="30" width="40" />
+    </a>
+</p>
