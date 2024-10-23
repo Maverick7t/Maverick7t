@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋,  I'm Moinaktar Shaikh </h1>
+<h1 align="center"> Hi,  I'm Moinaktar Shaikh </h1>
 
-<h3 align="center">Data science enthusiast by day, AI architect by night. Let's turn data into dazzling discoveries together!</h3>
+<h3 align="center">Data engineer by day, AI enthusiast by night inspired by Tony Stark to build my own Jarvis.</h3>
 
 <br/>
 
