@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3 align="left">Eperiance:</h3>
+<h3 align="left">Work Experience:</h3>
 <h3 align="left">Thrived in a fast-paced, high-pressure research environment at IIT Dharwad, specializing in speech processing with deep learning architectures. Over six months, I developed expertise in machine learning and deep learning while mastering time management and support research scholars in producing unique publications. My collaborative approach transformed challenges into innovative solutions and fostered a creative research environment. </h3>
 
 <br/>
