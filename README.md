@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 
-Hi, I’m Moinaktar — a Machine Learning Engineer passionate about building robust, scalable, and cloud-deployed AI systems.  
-Currently focused on combining AWS cloud services with modern MLOps to automate and optimize model lifecycle at scale.
+I live in Banglore, India I’m a cloud-certified, hands-on engineer passionate about both **Data Engineering and Machine Learning**.  
+As a fresher, I’ve focused my time on mastering end-to-end workflows — from data ingestion and transformation to model training and deployment.
 
 💡 I love solving real-world problems using:
 
