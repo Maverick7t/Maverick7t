@@ -5,7 +5,7 @@
 
 ---
 [![AWS Certified: Solutions Architect – Associate](https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com)  
-
+ 
 ### 👨‍💻 About Me
 
 I live in Banglore, India I’m a cloud-certified engineer passionate about both **Data Engineering and Machine Learning**.  
