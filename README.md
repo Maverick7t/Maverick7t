@@ -8,15 +8,25 @@
 ### 👨‍💻 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
-I live in Banglore, India I’m a cloud-certified engineer passionate about both **Data Engineering and Machine Learning**.  
-As a fresher, I’ve focused my time on mastering end-to-end workflows from data ingestion and transformation to model training and deployment.
+I live in Banglore, India 
+### 👨‍💻 About Me
 
-💡 I love solving real-world problems using:
+I’m Moinaktar — a data-native engineer with one stubborn mission:  
+**Build the closest thing to JARVIS.**
 
-- 🧠 Deep Learning & ML algorithms
-- ☁️ AWS: SageMaker, Lambda, EC2, S3, IAM, CloudWatch
-- 🔧 Tools: Python, Sklearn, TensorFlow, Docker, Git, Linux
-- 📦 Pipelines: ETL, Feature Engineering, Model Deployment
+While most people fine-tune models, I build the pipeline, clean the chaos, engineer the logic, and deploy the system. I don’t stop at predictions — I chase intelligence that thinks, adapts, and talks back.
+
+💡 If you gave me $1M today, I’d build an AGI that understands context, acts on intent, and gets things done like a personal operating system for the mind. Not in theory — in code.
+
+My tools?  
+- Clean, traceable data  
+- Scalable infrastructure  
+- Machine learning that doesn't just guess — it learns with purpose
+
+And yeah, I don’t move past bugs. I break them, debug them, and automate the fix.
+
+> I don’t just want to work in AI. I want to build the brains behind it.
+
 
 ---
 
