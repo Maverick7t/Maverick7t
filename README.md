@@ -2,6 +2,7 @@
 ## 🚀 Hi, I am Moinaktar Shaikh 
 
 > _“Turning data into impact. Building cloud-native ML solutions that scale.”_
+![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
  
