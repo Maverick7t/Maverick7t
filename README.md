@@ -4,7 +4,7 @@
 > _“Turning data into impact. Building cloud-native ML solutions that scale.”_
 
 ---
-[![AWS Certified](https://images.credly.com/size/110x110/images/4bc21d1b-0324-4f0e-a6f2-0ba30a1989ca/image.png)](https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile)
+[![AWS Certified: Solutions Architect – Associate](https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com)  
 
 ### 👨‍💻 About Me
 
