@@ -1,7 +1,7 @@
 
 ## 🚀 Hi, I am Moinaktar Shaikh 
 
-> _“Turning data into impact. Building cloud-native ML solutions that scale.”_
+> _“Turning raw data into insight, intelligence, and interaction powering everything from pipelines to LLMs”_
 
 ---
  
