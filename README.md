@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Hi, I am Moinaktar Shaikh 
 
@@ -7,6 +6,7 @@
 ---
  
 ### 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
 I live in Banglore, India I’m a cloud-certified engineer passionate about both **Data Engineering and Machine Learning**.  
 As a fresher, I’ve focused my time on mastering end-to-end workflows from data ingestion and transformation to model training and deployment.
