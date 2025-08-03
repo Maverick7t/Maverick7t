@@ -1,5 +1,5 @@
 
-## 🚀 Moinaktar Shaikh | Machine Learning Engineer | AWS Certified SAA-C03
+## 🚀 Hi, I am Moinaktar Shaikh 
 
 > _“Turning data into impact. Building cloud-native ML solutions that scale.”_
 
