@@ -8,16 +8,12 @@
 ### 👨‍💻 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
-I live in Banglore, India 
-### 👨‍💻 About Me
-
 I’m Moinaktar — a data-native engineer with one stubborn mission:  
-**Build the closest thing to JARVIS.**
+**Build the closest thing to JARVIS.** and i live Banglore, India
 
 While most people fine-tune models, I build the pipeline, clean the chaos, engineer the logic, and deploy the system. I don’t stop at predictions — I chase intelligence that thinks, adapts, and talks back.
 
 💡 If you gave me $1M today, I’d build an AGI that understands context, acts on intent, and gets things done like a personal operating system for the mind. Not in theory — in code.
-
 My tools?  
 - Clean, traceable data  
 - Scalable infrastructure  
