@@ -4,7 +4,7 @@
 > _“Turning data into impact. Building cloud-native ML solutions that scale.”_
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
+✅ [AWS Certified Solutions Architect – Associate (Credly Verified)](https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile)
 
 ### 👨‍💻 About Me
 
