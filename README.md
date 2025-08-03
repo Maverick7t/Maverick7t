@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 
-I live in Banglore, India I’m a cloud-certified, hands-on engineer passionate about both **Data Engineering and Machine Learning**.  
-As a fresher, I’ve focused my time on mastering end-to-end workflows — from data ingestion and transformation to model training and deployment.
+I live in Banglore, India I’m a cloud-certified engineer passionate about both **Data Engineering and Machine Learning**.  
+As a fresher, I’ve focused my time on mastering end-to-end workflows from data ingestion and transformation to model training and deployment.
 
 💡 I love solving real-world problems using:
 
@@ -22,9 +22,7 @@ As a fresher, I’ve focused my time on mastering end-to-end workflows — from 
 
 ### 🏆 Certifications & Badges
 
-[![AWS Certified: Solutions Architect – Associate](https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com)  
-[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/AZ-900-blue?style=for-the-badge&logo=microsoft-azure)](https://www.microsoft.com)  
-[![DeepLearning.AI – MLOps Specialization](https://img.shields.io/badge/MLOps-DeepLearning.AI-green?style=for-the-badge)](https://www.deeplearning.ai)
+[![AWS Certified: Solutions Architect – Associate](https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile) 
 
 ---
 
