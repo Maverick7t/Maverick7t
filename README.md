@@ -30,10 +30,3 @@ My work floats somewhere between data engineering, machine learning, automation,
 - 📫 Reach me: moinaktarshaikh@gmail.com
 
 ---
-
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maverick7t&show_icons=true&theme=tokyonight" alt="Moinaktar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick7t&layout=compact&theme=tokyonight" />
-</p>
