@@ -8,20 +8,13 @@
 ### 👨‍💻 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
 
-I’m Moinaktar — a data-native engineer with one stubborn mission:  
-**Build the closest thing to JARVIS.** and i live Banglore, India
+Hey — I’m Moinaktar. I like building things that work, scale, and occasionally talk back (hello, JARVIS).
 
-While most people fine-tune models, I build the pipeline, clean the chaos, engineer the logic, and deploy the system. I don’t stop at predictions — I chase intelligence that thinks, adapts, and talks back.
+My work floats somewhere between data engineering, machine learning, automation, and whatever else needs fixing. I don’t chase job titles — I chase clean systems, sharp logic, and problems worth solving.
 
-💡 If you gave me $1M today, I’d build an AGI that understands context, acts on intent, and gets things done like a personal operating system for the mind. Not in theory — in code.
-My tools?  
-- Clean, traceable data  
-- Scalable infrastructure  
-- Machine learning that doesn't just guess — it learns with purpose
+You’ll usually find me deep in a pipeline, refactoring chaos, or turning raw data into something smart enough to act on its own.
 
-And yeah, I don’t move past bugs. I break them, debug them, and automate the fix.
-
-> I don’t just want to work in AI. I want to build the brains behind it.
+> Not a perfectionist, just allergic to lazy fixes.
 
 
 ---
