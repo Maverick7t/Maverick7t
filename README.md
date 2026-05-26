@@ -79,6 +79,8 @@ Building scalable systems that turn raw data into intelligence, predictions, and
     height="170"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Maverick7t&layout=compact&theme=tokyonight&border_radius=10"
   />
+
+  <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" />
 </p>
 
 ---
