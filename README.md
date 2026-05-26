@@ -72,15 +72,18 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="">
   <img src="https://streak-stats.demolab.com?user=Maverick7t&theme=tokyonight" />
+
+  <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" />
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
   <img 
     height="170"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Maverick7t&layout=compact&theme=tokyonight&border_radius=10"
   />
 
-  <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" />
+
 </p>
 
 ---
