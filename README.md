@@ -1,32 +1,133 @@
+<h1 align="center">Hi 👋, I'm Moinaktar Shaikh</h1>
 
-## 🚀 Hi, I am Moinaktar Shaikh 
+<h3 align="center">
+Backend Engineer • Data Systems • AI Infrastructure
+</h3>
 
-> _“Turning raw data into insight, intelligence, and interaction powering everything from pipelines to LLMs”_
-
----
- 
-### 👨‍💻 About Me
-![Profile Views](https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat)
-
-I live in Bengaluru, India. I like building things that work, scale, and occasionally talk back.
-
-My work floats somewhere between data engineering, machine learning, automation, and whatever else needs fixing. I chase clean systems, sharp logic, and problems worth solving.
-
-> Not a perfectionist, just allergic to lazy fixes 🤧.
-
+<p align="center">
+Building scalable systems that turn raw data into intelligence, predictions, and automation.
+</p>
 
 ---
 
-### 🏆 Certifications & Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-[![AWS Certified: Solutions Architect – Associate](https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile)
+## ⚡ About Me
+
+- Backend engineer focused on scalable systems and ML infrastructure
+- Building production-grade AI and data platforms
+- Interested in distributed systems, RAG, inference pipelines, and cloud architecture
+- Exploring high-performance backend engineering with Go and Python
+- Based in Bengaluru, India
 
 ---
 
+## 🛠 Tech Stack
 
-### 💬 Let’s Connect
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,sql" />
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/moinaktar-shaikh-7b3a33207/)
-- 📫 Reach me: moinaktarshaikh@gmail.com
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+### Databases & Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 📈 AI-Powered Market Intelligence Platform
+
+Production-grade financial intelligence system built around async pipelines, event analysis, and RAG workflows.
+
+#### Highlights
+- Multi-stage async ingestion pipeline
+- Vector-based semantic retrieval
+- Event correlation and signal generation
+- RAG-powered explanation engine
+- ML evaluation and scoring framework
+- PostgreSQL + embeddings architecture
+
+#### Stack
+`FastAPI` `PostgreSQL` `AsyncIO` `RAG` `Embeddings` `Vector Search`
+
+---
+
+### 🏎 Formula 1 Prediction Platform
+
+ML-powered race prediction platform using telemetry, feature engineering, and automated prediction workflows.
+
+#### Highlights
+- Feature-store-driven inference architecture
+- XGBoost prediction APIs
+- Automated race ingestion pipelines
+- Prediction caching and warmup systems
+- Telemetry-driven analytics workflows
+- CI/CD scheduled automation jobs
+
+#### Stack
+`Flask` `XGBoost` `FastF1` `Supabase` `Docker` `GitHub Actions`
+
+---
+
+## 🏆 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Maverick7t&count_private=true&show_icons=true&theme=tokyonight&border_radius=10"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Maverick7t&layout=compact&theme=tokyonight&border_radius=10"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/moinaktar-shaikh-7b3a33207/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:moinaktarshaikh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
