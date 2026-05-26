@@ -56,41 +56,7 @@ Building scalable systems that turn raw data into intelligence, predictions, and
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### 📈 AI-Powered Market Intelligence Platform
-
-Production-grade financial intelligence system built around async pipelines, event analysis, and RAG workflows.
-
-#### Highlights
-- Multi-stage async ingestion pipeline
-- Vector-based semantic retrieval
-- Event correlation and signal generation
-- RAG-powered explanation engine
-- ML evaluation and scoring framework
-- PostgreSQL + embeddings architecture
-
-#### Stack
-`FastAPI` `PostgreSQL` `AsyncIO` `RAG` `Embeddings` `Vector Search`
-
----
-
-### 🏎 Formula 1 Prediction Platform
-
-ML-powered race prediction platform using telemetry, feature engineering, and automated prediction workflows.
-
-#### Highlights
-- Feature-store-driven inference architecture
-- XGBoost prediction APIs
-- Automated race ingestion pipelines
-- Prediction caching and warmup systems
-- Telemetry-driven analytics workflows
-- CI/CD scheduled automation jobs
-
-#### Stack
-`Flask` `XGBoost` `FastF1` `Supabase` `Docker` `GitHub Actions`
 
 ---
 
@@ -107,10 +73,7 @@ ML-powered race prediction platform using telemetry, feature engineering, and au
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=Maverick7t&count_private=true&show_icons=true&theme=tokyonight&border_radius=10"
-  />
+  <img src="https://streak-stats.demolab.com?user=Maverick7t&theme=tokyonight" />
 
   <img 
     height="170"
