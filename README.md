@@ -26,17 +26,12 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ## 🛠 Tech Stack
 
-### Languages
+### Languages & Framework
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,ts" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,go,cpp,ts,nodejs,express" />
 </p>
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
-</p>
-
-### Databases & Data Engineering
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
 </p>
@@ -51,13 +46,8 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,git,github,postman" />
   <img src="https://cdn.simpleicons.org/prefect/06B6D4" width="45" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
