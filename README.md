@@ -33,29 +33,32 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" />
 </p>
 
 ### Databases & Data Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
 </p>
 
 ### AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sentry" />
+  <img src="https://cdn.simpleicons.org/langchain" width="40" />
+  <img src="https://cdn.simpleicons.org/mlflow" width="45" />
 </p>
+
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux" />
+  <img src="https://cdn.simpleicons.org/prefect/06B6D4" width="45" />
 </p>
 
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
 
 
 ---
