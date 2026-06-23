@@ -5,7 +5,7 @@ Backend Engineer • Data Systems • AI Infrastructure
 </h3>
 
 <p align="center">
-Building scalable systems that turn raw data into intelligence, predictions, and automation.
+Building scalable systems that turn raw data into intelligence, predictions and automation.
 </p>
 
 ---
@@ -17,9 +17,9 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 ## ⚡ About Me
 
 - Backend engineer focused on scalable systems and ML infrastructure
-- Building production-grade AI and data platforms
-- Interested in distributed systems, RAG, inference pipelines, and cloud architecture
-- Exploring high-performance backend engineering with Go and Python
+- Building production grade AI and data platforms
+- Interested in distributed systems, RAG, inference pipelines and cloud architecture
+- Exploring high performance backend engineering with Go and Python
 - Based in Bengaluru, India
 
 ---
