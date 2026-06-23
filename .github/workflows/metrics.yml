@@ -29,10 +29,6 @@ jobs:
 
           plugin_isocalendar: yes
 
-          plugin_habits: no
-          plugin_habits_days: 0
-          plugin_habits_facts: no
-
           plugin_stars: yes
 
           plugin_achievements: no
