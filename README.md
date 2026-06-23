@@ -64,7 +64,7 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ## 🏆 Certifications
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/public_url">
     <img src="./assets/awscert.png" width="140" alt="AWS Certified Solutions Architect Associate">
   </a>
