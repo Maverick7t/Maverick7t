@@ -60,14 +60,13 @@ Building scalable systems that turn raw data into intelligence, predictions, and
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-
 ---
 
 ## 🏆 Certifications
 
-<p>
-  <a href="https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/linked_in_profile">
-    <img src="https://img.shields.io/badge/AWS-SAA--C03-orange?style=for-the-badge&logo=amazon-aws" />
+<p align="center">
+  <a href="https://www.credly.com/badges/3fa1dba9-a170-42a2-a7fc-cb2c1639b804/public_url">
+    <img src="./assets/awscert.png" width="140" alt="AWS Certified Solutions Architect Associate">
   </a>
 </p>
 
@@ -77,12 +76,8 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 <p align="">
   <img src="https://streak-stats.demolab.com?user=Maverick7t&theme=tokyonight" />
-
   <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" />
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-  
-
 
 </p>
 
