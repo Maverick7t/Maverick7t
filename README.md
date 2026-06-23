@@ -28,7 +28,7 @@ Building scalable systems that turn raw data into intelligence, predictions, and
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,c++,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,ts" />
 </p>
 
 ### Backend & APIs
