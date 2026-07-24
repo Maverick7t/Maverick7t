@@ -33,5 +33,5 @@ jobs:
 
           plugin_achievements: no
 
-          plugin_lines: yes
+          plugin_lines: no
           plugin_lines_sections: base,repositories
