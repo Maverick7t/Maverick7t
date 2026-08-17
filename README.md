@@ -11,7 +11,7 @@ Building scalable systems that turn raw data into intelligence, predictions and 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maverick7t&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mavericksystem&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ## ⚡ About Me
