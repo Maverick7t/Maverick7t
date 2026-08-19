@@ -65,7 +65,7 @@ Building scalable systems that turn raw data into intelligence, predictions and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maverick7t&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Mavericksystem&theme=tokyonight" width="49%" />
   
   <a href="https://leetcode.com/u/Moinaktar/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" width="49%" />
