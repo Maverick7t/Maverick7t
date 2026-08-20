@@ -19,7 +19,7 @@ jobs:
           user: Mavericksystem
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: metadata
 
           config_timezone: Asia/Kolkata
 
