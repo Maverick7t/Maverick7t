@@ -55,3 +55,5 @@ Backend engineer focused on scalable systems, AI infrastructure and production-g
   <a href="mailto:moinaktarshaikh@gmail.com">Email</a> ·
   <a href="https://leetcode.com/u/Moinaktar/">LeetCode</a>
 </p>
+
+<!-- readme-aura rebuild trigger -->
