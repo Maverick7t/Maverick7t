@@ -71,9 +71,7 @@ Building scalable systems that turn raw data into intelligence, predictions and 
   </a>
 </p>
 
-<p align="center">
-  <img src="/github-metrics.svg" width="98%" />
-</p>
+
 
 ---
 
