@@ -43,7 +43,6 @@ Building scalable systems that turn raw data into intelligence, predictions and 
   <img src="https://cdn.simpleicons.org/mlflow" width="45" />
 </p>
 
-
 ### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,git,github,postman" />
@@ -65,7 +64,7 @@ Building scalable systems that turn raw data into intelligence, predictions and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mavericksystem&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Mavericksystem&theme=tokyonight" width="49%" />
   
   <a href="https://leetcode.com/u/Moinaktar/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Moinaktar?theme=dark" width="49%" />
