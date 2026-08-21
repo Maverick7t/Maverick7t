@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Moinaktar Shaikh</h1>
 
 <h3 align="center">
-Backend Engineer • Data Systems • AI Infrastructure
+Backend Engineer • Fullstack • AI/ML
 </h3>
 
 <p align="center">
@@ -17,9 +17,8 @@ Building scalable systems that turn raw data into intelligence, predictions and 
 ## ⚡ About Me
 
 - Backend engineer focused on scalable systems and ML infrastructure
-- Building production grade AI and data platforms
+- Building production grade Fullstack AI and data platforms
 - Interested in distributed systems, RAG, inference pipelines and cloud architecture
-- Exploring high performance backend engineering with Go and Python
 - Based in Bengaluru, India
 
 ---
